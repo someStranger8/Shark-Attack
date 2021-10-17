@@ -1,7 +1,5 @@
 # Shark-Attack
 
-## GRAMMAR
-
 ddos - ddos attack
 
 VA - open virtual assistant
