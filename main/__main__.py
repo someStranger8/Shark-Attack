@@ -13,8 +13,7 @@ print("       )/                            \(")
 print("")
 
 # while loop
-i=1
-while i < 10:
+while True:
      shell=input("shark@attack:~$ ")
      if shell == "clear":
           clear()
@@ -67,4 +66,3 @@ while i < 10:
           c.ddos(attack)
      else:
           os.system(shell)
-i+=1
